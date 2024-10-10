@@ -12,4 +12,12 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ```
 uv init example
+
+cd example
+
+uv run hello.py
+```
+
+```
+>>> Hello from example!
 ```
